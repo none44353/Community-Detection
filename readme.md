@@ -10,7 +10,7 @@ In this project, I design evaluation metrics and test the effectiveness of Louva
 
 ## How to Run this Project?
 
-1. **Run Louvain Algorithms to Get Clusters.  **
+1. **Run Louvain Algorithms to Get Clusters**
 
 ```bash
 python main.py
